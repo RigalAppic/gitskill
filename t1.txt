@@ -1,3 +1,5 @@
-sasdasdsad
-
-asdasd
+<<<<<<< HEAD
+merge test
+=======
+merge test
+>>>>>>> branchText
