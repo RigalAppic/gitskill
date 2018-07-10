@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 merge test
-=======
-merge test
->>>>>>> branchText
+123
